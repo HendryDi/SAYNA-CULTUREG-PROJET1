@@ -1,5 +1,7 @@
-# SAYNA-CULTUREG-PROJET1
-Projet : initiation à la culture générale
+Dépôt pour le projet de SAYNA
 
-Information relatif au projet 1 pour le programme D-CLIC 2.0
-Ressources utiles pour le projet
+Programme : D-CLIC 2.0 🚀
+
+Pour le module : Culture Générale
+
+Nom : Projet 1 - Culture générale
